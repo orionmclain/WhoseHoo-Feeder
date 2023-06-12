@@ -24,7 +24,7 @@ My name is Orion McLain.
 
 - 🦉 Ask me about my bird feeder senior design project
 
-- 📫 Best way to reach me:  Email: orionmclain@gmail.com
+- 📫 Best ways to reach me:  Email: orionmclain@gmail.com | LinkedIn: www.linkedin.com/in/orionmclain/
 
 - 😄 Pronouns:  He/Him
 
