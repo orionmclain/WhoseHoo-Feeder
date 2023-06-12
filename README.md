@@ -6,8 +6,7 @@ My name is Orion McLain.
 
 - 👨🏼‍🎓 I graduated with a bachelors in computer engineering from the University of Massachusetts Amherst in May of 2023
 
-<details>
-<summary>- ⌨️ My top languages:</summary>
+- ⌨️ My top languages:
 
 | Rank | Languages |
 |-----:|-----------|
@@ -15,7 +14,6 @@ My name is Orion McLain.
 |     2| C         |
 |     3| Java      |
 
-</details>
 
 - 🖥️ I’m currently learning HTML, Javascript & CSS
 
