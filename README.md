@@ -18,7 +18,7 @@ My name is Orion McLain.
 
 - 🖥️ I’m currently learning HTML, Javascript & CSS
 
-- 📈 I am passionate about the development of data and technology tools. With interests in AI/ML, Embedded Systems, and Software Development
+- 📈 I am passionate about the growth of data and technology tools. With interests in AI/ML, Embedded Systems, and Software Development
 
 - ⚾️ I love to both play and watch sports and have been a lifelong Boston sports fan.
 
