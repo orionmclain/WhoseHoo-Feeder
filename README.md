@@ -28,5 +28,5 @@ My name is Orion McLain.
 
 - 😄 Pronouns:  He/Him
 
-- 🌿 Fun fact:  I grew up on the property of a 1250 acre Mass Audubon nature sanctuary
+- 🌿 Fun fact:  I grew up on the property of a 1250-acre Mass Audubon nature sanctuary in Western Massachusetts
 
