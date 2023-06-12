@@ -18,15 +18,15 @@ My name is Orion McLain.
 
 - 🖥️ I’m currently learning HTML, Javascript & CSS
 
-- 🦉 Ask me about my bird feeder senior design project
-
 - 📈 I am passionate about the development of data and technology tools. With interests in AI/ML, Embedded Systems, and Software Development
 
 - ⚾️ I love to both play and watch sports and have been a lifelong Boston sports fan.
 
-- 📫 How to reach me: Email: orionmclain@gmail.com
+- 🦉 Ask me about my bird feeder senior design project
 
-- 😄 Pronouns: He/Him
+- 📫 Best way to reach me:  Email: orionmclain@gmail.com
 
-- 🌿 Fun fact: I grew up on the property of a 1250 acre Mass Audubon nature sanctuary
+- 😄 Pronouns:  He/Him
+
+- 🌿 Fun fact:  I grew up on the property of a 1250 acre Mass Audubon nature sanctuary
 
