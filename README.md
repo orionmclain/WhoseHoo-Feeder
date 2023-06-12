@@ -1,6 +1,6 @@
 ### About me
 
-<!--
+
 Hi!
 My name is Orion McLain. 
 
@@ -30,4 +30,4 @@ My name is Orion McLain.
 - 😄 Pronouns: He/Him
 
 - 🌿 Fun fact: I grew up on the property of a 1250 acre Mass Audubon nature sanctuary
--->
+
